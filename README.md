@@ -1,2 +1,2 @@
 # berser1
- berser1
+ npm install
